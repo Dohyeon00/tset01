@@ -1,5 +1,0 @@
-C:\Users\User\Documents\GitHub\tset01\ClassObjectInstance\obj\Debug\net6.0\ClassObjectInstance.csproj.AssemblyReference.cache
-C:\Users\User\Documents\GitHub\tset01\ClassObjectInstance\obj\Debug\net6.0\ClassObjectInstance.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\User\Documents\GitHub\tset01\ClassObjectInstance\obj\Debug\net6.0\ClassObjectInstance.AssemblyInfoInputs.cache
-C:\Users\User\Documents\GitHub\tset01\ClassObjectInstance\obj\Debug\net6.0\ClassObjectInstance.AssemblyInfo.cs
-C:\Users\User\Documents\GitHub\tset01\ClassObjectInstance\obj\Debug\net6.0\ClassObjectInstance.csproj.CoreCompileInputs.cache
