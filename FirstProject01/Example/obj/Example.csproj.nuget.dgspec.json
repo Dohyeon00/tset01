@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\GitHub\\tset01\\FirstProject01\\FirstProject01.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\tset01\\FirstProject01\\Example\\Example.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\GitHub\\tset01\\FirstProject01\\FirstProject01.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\tset01\\FirstProject01\\Example\\Example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\tset01\\FirstProject01\\FirstProject01.csproj",
-        "projectName": "FirstProject01",
-        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\tset01\\FirstProject01\\FirstProject01.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\tset01\\FirstProject01\\Example\\Example.csproj",
+        "projectName": "Example",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\tset01\\FirstProject01\\Example\\Example.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\tset01\\FirstProject01\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\tset01\\FirstProject01\\Example\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

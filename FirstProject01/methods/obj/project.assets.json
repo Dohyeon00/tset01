@@ -13,19 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<<< HEAD:FirstProject01/methods/obj/project.assets.json
       "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\tset01\\FirstProject01\\methods\\methods.csproj",
       "projectName": "methods",
       "projectPath": "C:\\Users\\User\\Documents\\GitHub\\tset01\\FirstProject01\\methods\\methods.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\Documents\\GitHub\\tset01\\FirstProject01\\methods\\obj\\",
-========
-      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\tset01\\Variables\\Variables.csproj",
-      "projectName": "Variables",
-      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\tset01\\Variables\\Variables.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\tset01\\Variables\\obj\\",
->>>>>>>> 03babad5ebda74bd208dc7b6407c431c97e374c7:Variables/obj/project.assets.json
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
