@@ -1,31 +1,17 @@
 {
   "format": 1,
   "restore": {
-<<<<<<<< HEAD:FirstProject01/Variables/obj/Variables.csproj.nuget.dgspec.json
-    "C:\\Users\\User\\Documents\\GitHub\\tset01\\FirstProject01\\Variables\\Variables.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\tset01\\FirstProject\\FirstProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\GitHub\\tset01\\FirstProject01\\Variables\\Variables.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\tset01\\FirstProject\\FirstProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\tset01\\FirstProject01\\Variables\\Variables.csproj",
-        "projectName": "Variables",
-        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\tset01\\FirstProject01\\Variables\\Variables.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\tset01\\FirstProject\\FirstProject.csproj",
+        "projectName": "FirstProject",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\tset01\\FirstProject\\FirstProject.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\tset01\\FirstProject01\\Variables\\obj\\",
-========
-    "C:\\Users\\User\\Documents\\GitHub\\tset01\\Variables\\Variables.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\User\\Documents\\GitHub\\tset01\\Variables\\Variables.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\tset01\\Variables\\Variables.csproj",
-        "projectName": "Variables",
-        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\tset01\\Variables\\Variables.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\tset01\\Variables\\obj\\",
->>>>>>>> 03babad5ebda74bd208dc7b6407c431c97e374c7:Variables/obj/Variables.csproj.nuget.dgspec.json
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\tset01\\FirstProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
