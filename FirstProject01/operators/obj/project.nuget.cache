@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wkSjDiSeWTEp5YBw7dzavrZMpXvVwEqw3wkTChRH9MTvzUULp8etflL6eh3Jll0Jpn/5ZMz97ZJfcPAXjeDgZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Documents\\GitHub\\tset01\\FirstProject01\\operators\\operators.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

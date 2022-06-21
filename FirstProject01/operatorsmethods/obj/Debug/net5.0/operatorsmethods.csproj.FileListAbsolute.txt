@@ -1,0 +1,16 @@
+C:\Users\User\Documents\GitHub\tset01\FirstProject01\operatorsmethods\bin\Debug\net5.0\operatorsmethods.exe
+C:\Users\User\Documents\GitHub\tset01\FirstProject01\operatorsmethods\bin\Debug\net5.0\operatorsmethods.deps.json
+C:\Users\User\Documents\GitHub\tset01\FirstProject01\operatorsmethods\bin\Debug\net5.0\operatorsmethods.runtimeconfig.json
+C:\Users\User\Documents\GitHub\tset01\FirstProject01\operatorsmethods\bin\Debug\net5.0\operatorsmethods.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\tset01\FirstProject01\operatorsmethods\bin\Debug\net5.0\operatorsmethods.dll
+C:\Users\User\Documents\GitHub\tset01\FirstProject01\operatorsmethods\bin\Debug\net5.0\ref\operatorsmethods.dll
+C:\Users\User\Documents\GitHub\tset01\FirstProject01\operatorsmethods\bin\Debug\net5.0\operatorsmethods.pdb
+C:\Users\User\Documents\GitHub\tset01\FirstProject01\operatorsmethods\obj\Debug\net5.0\operatorsmethods.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\tset01\FirstProject01\operatorsmethods\obj\Debug\net5.0\operatorsmethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\tset01\FirstProject01\operatorsmethods\obj\Debug\net5.0\operatorsmethods.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\tset01\FirstProject01\operatorsmethods\obj\Debug\net5.0\operatorsmethods.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\tset01\FirstProject01\operatorsmethods\obj\Debug\net5.0\operatorsmethods.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\tset01\FirstProject01\operatorsmethods\obj\Debug\net5.0\operatorsmethods.dll
+C:\Users\User\Documents\GitHub\tset01\FirstProject01\operatorsmethods\obj\Debug\net5.0\ref\operatorsmethods.dll
+C:\Users\User\Documents\GitHub\tset01\FirstProject01\operatorsmethods\obj\Debug\net5.0\operatorsmethods.pdb
+C:\Users\User\Documents\GitHub\tset01\FirstProject01\operatorsmethods\obj\Debug\net5.0\operatorsmethods.genruntimeconfig.cache

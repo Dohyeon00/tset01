@@ -79,12 +79,4 @@ namespace Example01_ClassObjectinstance
 
     }
 
-
-
-
-
-
-
-
-
 }
