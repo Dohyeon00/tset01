@@ -1,0 +1,15 @@
+C:\Users\김도현\Documents\GitHub\tset01\FirstProject01\FristPorject001\Statement_Loops\bin\Debug\net6.0\Statement_Loops.exe
+C:\Users\김도현\Documents\GitHub\tset01\FirstProject01\FristPorject001\Statement_Loops\bin\Debug\net6.0\Statement_Loops.deps.json
+C:\Users\김도현\Documents\GitHub\tset01\FirstProject01\FristPorject001\Statement_Loops\bin\Debug\net6.0\Statement_Loops.runtimeconfig.json
+C:\Users\김도현\Documents\GitHub\tset01\FirstProject01\FristPorject001\Statement_Loops\bin\Debug\net6.0\Statement_Loops.dll
+C:\Users\김도현\Documents\GitHub\tset01\FirstProject01\FristPorject001\Statement_Loops\bin\Debug\net6.0\Statement_Loops.pdb
+C:\Users\김도현\Documents\GitHub\tset01\FirstProject01\FristPorject001\Statement_Loops\obj\Debug\net6.0\Statement_Loops.csproj.AssemblyReference.cache
+C:\Users\김도현\Documents\GitHub\tset01\FirstProject01\FristPorject001\Statement_Loops\obj\Debug\net6.0\Statement_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\김도현\Documents\GitHub\tset01\FirstProject01\FristPorject001\Statement_Loops\obj\Debug\net6.0\Statement_Loops.AssemblyInfoInputs.cache
+C:\Users\김도현\Documents\GitHub\tset01\FirstProject01\FristPorject001\Statement_Loops\obj\Debug\net6.0\Statement_Loops.AssemblyInfo.cs
+C:\Users\김도현\Documents\GitHub\tset01\FirstProject01\FristPorject001\Statement_Loops\obj\Debug\net6.0\Statement_Loops.csproj.CoreCompileInputs.cache
+C:\Users\김도현\Documents\GitHub\tset01\FirstProject01\FristPorject001\Statement_Loops\obj\Debug\net6.0\Statement_Loops.dll
+C:\Users\김도현\Documents\GitHub\tset01\FirstProject01\FristPorject001\Statement_Loops\obj\Debug\net6.0\refint\Statement_Loops.dll
+C:\Users\김도현\Documents\GitHub\tset01\FirstProject01\FristPorject001\Statement_Loops\obj\Debug\net6.0\Statement_Loops.pdb
+C:\Users\김도현\Documents\GitHub\tset01\FirstProject01\FristPorject001\Statement_Loops\obj\Debug\net6.0\Statement_Loops.genruntimeconfig.cache
+C:\Users\김도현\Documents\GitHub\tset01\FirstProject01\FristPorject001\Statement_Loops\obj\Debug\net6.0\ref\Statement_Loops.dll
